@@ -1,10 +1,10 @@
-# 📘 TD n°1 — Introduction à JavaScript
+#  TD n°1 — Introduction à JavaScript
 
 A collection of JavaScript exercises covering basic language constructs: simple types, variable declarations, control statements, and iterations.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── ex1.js       # Temperature conversion (Fahrenheit → Celsius)
@@ -19,7 +19,7 @@ A collection of JavaScript exercises covering basic language constructs: simple 
 
 ---
 
-## 🧪 Exercises
+##  Exercises
 
 ### Exercise 1 — Temperature Conversion
 **File:** `ex1.js`
@@ -136,7 +136,7 @@ Output: Valeur approchée de la racine carrée = 4.385202389856321
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 All exercises use browser-native `prompt()` and `alert()` dialogs.
 
@@ -150,11 +150,11 @@ Copy and paste any function into your browser's DevTools console and call it dir
 ```bash
 node ex7.js
 ```
-> ⚠️ Note: `prompt()` is not available in Node.js by default. You may need to adapt input handling using `readline` for a Node environment.
+>  Note: `prompt()` is not available in Node.js by default. You may need to adapt input handling using `readline` for a Node environment.
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 - **Language:** JavaScript (ES6+)
 - **Runtime:** Browser (Chrome, Firefox, etc.)
@@ -162,7 +162,7 @@ node ex7.js
 
 ---
 
-## 📚 Course Info
+##  Course Info
 
 | Field        | Details                                      |
 |--------------|----------------------------------------------|
