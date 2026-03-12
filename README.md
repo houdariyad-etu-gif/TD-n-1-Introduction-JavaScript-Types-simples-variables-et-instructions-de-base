@@ -1,7 +1,5 @@
 # 📘 TD n°1 — Introduction à JavaScript
 
-> Master SDIA — Technologies du Web & Web Sémantique
-
 A collection of JavaScript exercises covering basic language constructs: simple types, variable declarations, control statements, and iterations.
 
 ---
